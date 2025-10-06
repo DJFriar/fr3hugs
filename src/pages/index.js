@@ -8,8 +8,8 @@ const IndexPage = () => {
         <div className="avatar">
           <span className="avatar-emoji">🤗</span>
         </div>
-        <h1 className="title">@fr3hugs</h1>
-        <p className="bio">Connect with us on social media to see when and where we'll be next!</p>
+        <h1 className="title">FREE HUGS</h1>
+        <p className="bio">Connect with us on social media @fr3hugs to see when and where we'll be next!</p>
       </div>
 
       <div className="links-section">
@@ -49,7 +49,7 @@ export default IndexPage
 
 export const Head = () => (
   <>
-    <title>fr3hugs - Links</title>
+    <title>FREE HUGS!</title>
     <meta name="description" content="Connect with fr3hugs on social media" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   </>
